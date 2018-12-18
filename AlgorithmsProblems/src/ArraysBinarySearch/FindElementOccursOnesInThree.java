@@ -38,12 +38,12 @@ class FindElementOccursOnesInThree
 		
 		Set<int[]> set = new HashSet<>(Arrays.asList(arr));		
 		set.toArray();
-		set
+		//set
 		for( int[] s : set ){
 			System.out.println(set);			
 		}
 	
-		uniquearr = s.toArray();
+	//	uniquearr = s.toArray();
 //		System.out.println("The element with single occurrence is " + getSingle(uniquearr,arr, n));
 	}
 }
